@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T13:33:36+00:00",
+  "generated_at": "2026-07-17T15:04:38+00:00",
   "total_posts": 330,
   "payslip_posts": 326,
   "with_income": 248,
@@ -119,7 +119,13 @@
     "local ecommerce platform seller": 1
   },
   "account_age_counts": {
-    "Unknown": 326
+    "1-3y": 31,
+    "1-6mo": 7,
+    "3y+": 58,
+    "6-12mo": 9,
+    "7-30d": 2,
+    "<7d": 18,
+    "Unknown": 201
   },
   "yoe_counts": {
     "1-2 yrs": 31,
@@ -144,8 +150,8 @@
       "band": "N/A",
       "status": "N/A",
       "date": "2026-07-17",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 917
     },
     {
       "title": "Social Worker, 30s, FSC, 5 years of experience.",
@@ -159,8 +165,8 @@
       "band": "3-5k",
       "status": "Needs review",
       "date": "2026-07-17",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 3780
     },
     {
       "title": "Director of Clowns, BAANG (small tech), 5YO, 4YOE total",
@@ -174,8 +180,8 @@
       "band": "No image",
       "status": "No image",
       "date": "2026-07-17",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 5455
     },
     {
       "title": "Principal Engineer - Fintech, 12+ YOE",
@@ -189,8 +195,8 @@
       "band": "N/A",
       "status": "N/A",
       "date": "2026-07-17",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 417
     },
     {
       "title": "29 Y/O - Director",
@@ -204,8 +210,8 @@
       "band": "20-30k",
       "status": "Needs review",
       "date": "2026-07-17",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 671
     },
     {
       "title": "Data Analyst, Late 20s, 6 YOE",
@@ -219,8 +225,8 @@
       "band": "12-20k",
       "status": "Needs review",
       "date": "2026-07-17",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 818
     },
     {
       "title": "In-house legal counsel, 9YOE",
@@ -234,8 +240,8 @@
       "band": "12-20k",
       "status": "Needs review",
       "date": "2026-07-17",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 157
     },
     {
       "title": "Middle Office - Front Facing; Asset Management; 8 YOE;",
@@ -249,8 +255,8 @@
       "band": "20-30k",
       "status": "Needs review",
       "date": "2026-07-17",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 3130
     },
     {
       "title": "Shipping Executive / 1 YOE",
@@ -264,8 +270,8 @@
       "band": "3-5k",
       "status": "Needs review",
       "date": "2026-07-17",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2064
     },
     {
       "title": "Out of curiosity and generally speaking, for business owners, how much do you earn?",
@@ -279,8 +285,8 @@
       "band": "No image",
       "status": "No image",
       "date": "2026-07-17",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2075
     },
     {
       "title": "Civil Service / 1.5 YOE",
@@ -294,8 +300,8 @@
       "band": "5-8k",
       "status": "Needs review",
       "date": "2026-07-17",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1954
     },
     {
       "title": "Sales Admin at Tech Company, 15 YoE",
@@ -309,8 +315,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-17",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2209
     },
     {
       "title": "Why Bother to Redact?",
@@ -324,8 +330,8 @@
       "band": "12-20k",
       "status": "Needs review",
       "date": "2026-07-17",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2347
     },
     {
       "title": "Social startup cofounder, 3 YOE .",
@@ -339,8 +345,8 @@
       "band": "5-8k",
       "status": "Needs review",
       "date": "2026-07-17",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "7-30d",
+      "accountAgeDays": 20
     },
     {
       "title": "I vibe coded a dashboard for r/singaporepayslips salary posts",
@@ -354,8 +360,8 @@
       "band": "N/A",
       "status": "N/A",
       "date": "2026-07-17",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 5010
     },
     {
       "title": "VP of strategy, real estate, 5yoe",
@@ -369,8 +375,8 @@
       "band": "12-20k",
       "status": "Needs review",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 101
     },
     {
       "title": "Dentist, 7YOE",
@@ -384,8 +390,8 @@
       "band": "3-5k",
       "status": "Needs review",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "Chef, 30, 12YOE.",
@@ -399,8 +405,8 @@
       "band": "5-8k",
       "status": "Needs review",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "6-12mo",
+      "accountAgeDays": 295
     },
     {
       "title": "Certified Female Massage Therapist, 2 YOE",
@@ -429,8 +435,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "We got on the news!! r/singaporepayslips are unexpectedly featured on The Straits Times Linkedin page. Never expected the sub to gain this much traction, thank you to every one of you and keep it going!",
@@ -444,8 +450,8 @@
       "band": "N/A",
       "status": "N/A",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 95
     },
     {
       "title": "SPF 11YOE",
@@ -459,8 +465,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2234
     },
     {
       "title": "Doctor/MO (6YOE) Public Hospital",
@@ -474,8 +480,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1962
     },
     {
       "title": "Pharmacist, Gov Hospital, 2 YOE",
@@ -489,8 +495,8 @@
       "band": "5-8k",
       "status": "Needs review",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 3526
     },
     {
       "title": "6yoe with PhD, Research Fellow in Academia",
@@ -504,8 +510,8 @@
       "band": "5-8k",
       "status": "Needs review",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "Public Servant (Non-Tech in Tech), 5YOE in this industry",
@@ -534,8 +540,8 @@
       "band": "12-20k",
       "status": "Needs review",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 486
     },
     {
       "title": "18 YOE, foreign bank, Relationship Manager",
@@ -549,8 +555,8 @@
       "band": "12-20k",
       "status": "Needs review",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2095
     },
     {
       "title": "Nurse, 14yoe, PHI",
@@ -564,8 +570,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 43
     },
     {
       "title": "Banking, Markets, 15YOE",
@@ -579,8 +585,8 @@
       "band": "30-50k",
       "status": "Needs review",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 665
     },
     {
       "title": "Process Engineer 7YOE",
@@ -594,8 +600,8 @@
       "band": "12-20k",
       "status": "Needs review",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 706
     },
     {
       "title": "Mechanical Engineer, Building Construction/ 14YOE",
@@ -609,8 +615,8 @@
       "band": "12-20k",
       "status": "Needs review",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1995
     },
     {
       "title": "Senior SWE / 10 YOE",
@@ -624,8 +630,8 @@
       "band": "12-20k",
       "status": "Clean",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "Analytics Manager, ex-mnc, 12yoe",
@@ -639,8 +645,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "MOPEX Doctor/3 YOE including HO",
@@ -654,8 +660,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 881
     },
     {
       "title": "8yoe, MNC Tech SWE",
@@ -669,8 +675,8 @@
       "band": "12-20k",
       "status": "Needs review",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "6-12mo",
+      "accountAgeDays": 335
     },
     {
       "title": "Wellness Coach, Network marketing, 1YOE",
@@ -684,8 +690,8 @@
       "band": "N/A",
       "status": "N/A",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 934
     },
     {
       "title": "Account Manager - Recruitment Industry | 15YOE",
@@ -699,8 +705,8 @@
       "band": "12-20k",
       "status": "Needs review",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 789
     },
     {
       "title": "Wellbeing specialist, 7YOE in SPED + social service",
@@ -714,8 +720,8 @@
       "band": "5-8k",
       "status": "Needs review",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 3133
     },
     {
       "title": "Senior Marketing Director / 18 YOE",
@@ -729,8 +735,8 @@
       "band": "30-50k",
       "status": "Needs review",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2145
     },
     {
       "title": "PM in tech. 6 YOE.",
@@ -744,8 +750,8 @@
       "band": "No image",
       "status": "No image",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 87
     },
     {
       "title": "KYC Officer(Securities Firm), 2 YOE",
@@ -759,8 +765,8 @@
       "band": "3-5k",
       "status": "Needs review",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2095
     },
     {
       "title": "Thinking we should compile a list of side gigs that we can do to earn some extra money. I think focusing on one income will demoralise you if you happen to choose a career path that is lower paying but fomo about those 6 digits income.",
@@ -774,8 +780,8 @@
       "band": "No image",
       "status": "No image",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2022
     },
     {
       "title": "Senior Engineer / Civil Service / 5 YOE",
@@ -789,8 +795,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 751
     },
     {
       "title": "SWE Fintech 2.5yoe",
@@ -804,8 +810,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1915
     },
     {
       "title": "Age 28 / WSHC / about 3 YOE",
@@ -819,8 +825,8 @@
       "band": "3-5k",
       "status": "Clean",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 589
     },
     {
       "title": "Can someone share from pharmaceutical industry for a change of perspective?",
@@ -834,8 +840,8 @@
       "band": "No image",
       "status": "No image",
       "date": "2026-07-16",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "7-30d",
+      "accountAgeDays": 8
     },
     {
       "title": "Wa this sub reddit kena stalked by straits times reporters",
@@ -849,8 +855,8 @@
       "band": "N/A",
       "status": "N/A",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 125
     },
     {
       "title": "is hitting 10k/month salary out of reach?",
@@ -864,8 +870,8 @@
       "band": "No image",
       "status": "No image",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 515
     },
     {
       "title": "Corp comms, mid 40s, 18 YOE",
@@ -879,8 +885,8 @@
       "band": "30-50k",
       "status": "Needs review",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 758
     },
     {
       "title": "SSN1 SOC Nurse (6 YOE)",
@@ -894,8 +900,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 440
     },
     {
       "title": "NIE-PGDE, MOE, 0 YoE",
@@ -909,8 +915,8 @@
       "band": "3-5k",
       "status": "Clean",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "Nurse - Healthcare",
@@ -924,8 +930,8 @@
       "band": "5-8k",
       "status": "Needs review",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 628
     },
     {
       "title": "HR, 3.5 YOE",
@@ -939,8 +945,8 @@
       "band": "3-5k",
       "status": "Needs review",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2314
     },
     {
       "title": "Financial advisor / 1 year",
@@ -969,8 +975,8 @@
       "band": "<3k",
       "status": "Needs review",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 3059
     },
     {
       "title": "local ecommerce platform seller / 6 YOE",
@@ -984,8 +990,8 @@
       "band": "50k+",
       "status": "Needs review",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "6-12mo",
+      "accountAgeDays": 296
     },
     {
       "title": "Senior registered nurse, 5 YOE",
@@ -999,8 +1005,8 @@
       "band": "5-8k",
       "status": "Needs review",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 522
     },
     {
       "title": "Ecommerce Sales Head, MNC, 3X yo, 10 yrs exp",
@@ -1014,8 +1020,8 @@
       "band": "12-20k",
       "status": "Needs review",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 3368
     },
     {
       "title": "Semi-retired/self-employed. Doing some side consulting work now",
@@ -1029,8 +1035,8 @@
       "band": "5-8k",
       "status": "Needs review",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2078
     },
     {
       "title": "IT, 15 YOE. 2nd level IT support with a secondary role of ITSM and project rollout. Finance Sectorz",
@@ -1044,8 +1050,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1868
     },
     {
       "title": "IT in bank / 3 YOE",
@@ -1059,8 +1065,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1392
     },
     {
       "title": "Compliance (MLRO)/ Fintech/ 12 YOE",
@@ -1074,8 +1080,8 @@
       "band": "30-50k",
       "status": "Needs review",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "preschool teacher, 6YOE",
@@ -1089,8 +1095,8 @@
       "band": "3-5k",
       "status": "Clean",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 986
     },
     {
       "title": "Bank Credit Analyst, 3+ YOE",
@@ -1104,8 +1110,8 @@
       "band": "5-8k",
       "status": "Needs review",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 5282
     },
     {
       "title": "Chief of defence force/ Commissioner of Police?",
@@ -1119,8 +1125,8 @@
       "band": "No image",
       "status": "No image",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1147
     },
     {
       "title": "Senior Engineer, Marine Industry, 3 YOE",
@@ -1134,8 +1140,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2627
     },
     {
       "title": "GP, PGY8 (7 YOE)",
@@ -1149,8 +1155,8 @@
       "band": "20-30k",
       "status": "Needs review",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1991
     },
     {
       "title": "Preschool Educator/ 4 YOE / Mid 20+",
@@ -1164,8 +1170,8 @@
       "band": "3-5k",
       "status": "Needs review",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1632
     },
     {
       "title": "Comms, MNC, >20YoE",
@@ -1179,8 +1185,8 @@
       "band": "N/A",
       "status": "N/A",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 1081
     },
     {
       "title": "Marketing/Creative - Biz owner, 3 YOE. not a good year",
@@ -1194,8 +1200,8 @@
       "band": "No image",
       "status": "No image",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2193
     },
     {
       "title": "Why is there no Insurance Agent/property agent ? This sub just fact checked all the top North , top sales blah blah",
@@ -1209,8 +1215,8 @@
       "band": "No image",
       "status": "No image",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2068
     },
     {
       "title": "Videographer, 2.5 YOE",
@@ -1224,8 +1230,8 @@
       "band": "3-5k",
       "status": "Needs review",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1888
     },
     {
       "title": "Suggestions: Intern Pay, Salary Progression",
@@ -1239,8 +1245,8 @@
       "band": "No image",
       "status": "No image",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2845
     },
     {
       "title": "Cleaning services 5YOE",
@@ -1254,8 +1260,8 @@
       "band": "50k+",
       "status": "Needs review",
       "date": "2026-07-15",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "6-12mo",
+      "accountAgeDays": 351
     },
     {
       "title": "Doctor Public Hospital/17 YOE",
@@ -1269,8 +1275,8 @@
       "band": "30-50k",
       "status": "Needs review",
       "date": "2026-07-14",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 4274
     },
     {
       "title": "junior doctor in public hospital a&e, 2 yoe",
@@ -1284,8 +1290,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-14",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2799
     },
     {
       "title": "Sec sch teacher, 13yoe",
@@ -1299,8 +1305,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-14",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2084
     },
     {
       "title": "Ecommerce Founder, 6 YOE",
@@ -1314,8 +1320,8 @@
       "band": "N/A",
       "status": "N/A",
       "date": "2026-07-14",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2155
     },
     {
       "title": "Side income as student",
@@ -1329,8 +1335,8 @@
       "band": "N/A",
       "status": "N/A",
       "date": "2026-07-14",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "Qn for high salaries here",
@@ -1344,8 +1350,8 @@
       "band": "No image",
       "status": "No image",
       "date": "2026-07-14",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 727
     },
     {
       "title": "Trading 10 YOE",
@@ -1359,8 +1365,8 @@
       "band": "50k+",
       "status": "Needs review",
       "date": "2026-07-14",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1432
     },
     {
       "title": "SSN1 in public hospital / 7YOE",
@@ -1374,8 +1380,8 @@
       "band": "5-8k",
       "status": "Clean",
       "date": "2026-07-14",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 923
     },
     {
       "title": "Senior staff nurse/ public healthcare/ 13 YOE",
@@ -1389,8 +1395,8 @@
       "band": "5-8k",
       "status": "Needs review",
       "date": "2026-07-14",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 614
     },
     {
       "title": "Assistant Manager, Public Healthcare Admin, 17 YOE",
@@ -1404,8 +1410,8 @@
       "band": "5-8k",
       "status": "Needs review",
       "date": "2026-07-14",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 3397
     },
     {
       "title": "site reliability engineer, 2 YOE",
@@ -1419,8 +1425,8 @@
       "band": "8-12k",
       "status": "Clean",
       "date": "2026-07-14",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1277
     },
     {
       "title": "Oil & Gas trading operation, 3 YOE",
@@ -1434,8 +1440,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-14",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 508
     },
     {
       "title": "Banking ARM 8 YOE",
@@ -1449,8 +1455,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-14",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 713
     },
     {
       "title": "UX Designer, Tech, ~12 YOE",
@@ -1464,8 +1470,8 @@
       "band": "30-50k",
       "status": "Needs review",
       "date": "2026-07-14",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "Tech/data, public healthcare, 5yoe",
@@ -1479,8 +1485,8 @@
       "band": "5-8k",
       "status": "Needs review",
       "date": "2026-07-14",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1981
     },
     {
       "title": "Senior SWE, 4 YOE",
@@ -1494,8 +1500,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-14",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 179
     },
     {
       "title": "CC (Complex Leader) SGP, 9 YOE",
@@ -1509,8 +1515,8 @@
       "band": "3-5k",
       "status": "Needs review",
       "date": "2026-07-14",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "6-12mo",
+      "accountAgeDays": 199
     },
     {
       "title": "Middle office, global bank / 15 YOE",
@@ -1524,8 +1530,8 @@
       "band": "12-20k",
       "status": "Needs review",
       "date": "2026-07-14",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "Product manager in tech 5YOE",
@@ -1539,8 +1545,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-14",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "6-12mo",
+      "accountAgeDays": 335
     },
     {
       "title": "Legal, 1 YOE after Call, mid-sized firm.",
@@ -1554,8 +1560,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-14",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2678
     },
     {
       "title": "UX Design, 12yoe, bank",
@@ -1569,8 +1575,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-14",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 4862
     },
     {
       "title": "Technology SME, Software Engineer, 9 YOE",
@@ -1614,8 +1620,8 @@
       "band": "5-8k",
       "status": "Clean",
       "date": "2026-07-13",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2141
     },
     {
       "title": "Senior equipment engineer, Micron Semiconductor, 11 years exp. in semiconductor industry.",
@@ -1629,8 +1635,8 @@
       "band": "12-20k",
       "status": "Clean",
       "date": "2026-07-13",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2193
     },
     {
       "title": "Security System Administrator [ Banking ] / YOE 9 Years",
@@ -1644,8 +1650,8 @@
       "band": "3-5k",
       "status": "Clean",
       "date": "2026-07-13",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 561
     },
     {
       "title": "Full-time ministry, 6(?)YOE",
@@ -1659,8 +1665,8 @@
       "band": "5-8k",
       "status": "Needs review",
       "date": "2026-07-13",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "Senior equipment engineer, Micron Semiconductor, 11 YOE",
@@ -1689,8 +1695,8 @@
       "band": "8-12k",
       "status": "Clean",
       "date": "2026-07-13",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 1085
     },
     {
       "title": "Video Editor, Media, 9YOE",
@@ -1704,8 +1710,8 @@
       "band": "3-5k",
       "status": "Clean",
       "date": "2026-07-13",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 743
     },
     {
       "title": "25 y/o, 3 YOE, work in tech",
@@ -1719,8 +1725,8 @@
       "band": "8-12k",
       "status": "Clean",
       "date": "2026-07-13",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 577
     },
     {
       "title": "Regional Private Bank, Investment Advisor, 10 YOE",
@@ -1734,8 +1740,8 @@
       "band": "30-50k",
       "status": "Needs review",
       "date": "2026-07-13",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1971
     },
     {
       "title": "Compliance VP, international bank, 12 YOE",
@@ -1749,8 +1755,8 @@
       "band": "12-20k",
       "status": "Floor estimate",
       "date": "2026-07-13",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "Early childhood teacher, ~5YOE",
@@ -1764,8 +1770,8 @@
       "band": "5-8k",
       "status": "Needs review",
       "date": "2026-07-13",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2989
     },
     {
       "title": "Technical Officer, Power Industry, 5YOE",
@@ -1779,8 +1785,8 @@
       "band": "3-5k",
       "status": "Needs review",
       "date": "2026-07-13",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "Assist Engineer YOE 6 Defense R&D",
@@ -1809,8 +1815,8 @@
       "band": "5-8k",
       "status": "Needs review",
       "date": "2026-07-13",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1987
     },
     {
       "title": "Airport Ops / 4 YOE",
@@ -1824,8 +1830,8 @@
       "band": "5-8k",
       "status": "Needs review",
       "date": "2026-07-13",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "Tech Sales/Growth Role in a niche/low pay industry, 10 yoe, but first sales role",
@@ -1854,8 +1860,8 @@
       "band": "20-30k",
       "status": "Needs review",
       "date": "2026-07-13",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "6-12mo",
+      "accountAgeDays": 300
     },
     {
       "title": "Marketing (Individual Contributor) / 11 YOE",
@@ -1869,8 +1875,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-13",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 4030
     },
     {
       "title": "Civil Serpent/Tech 4+ YOE",
@@ -1899,8 +1905,8 @@
       "band": "<3k",
       "status": "Floor estimate",
       "date": "2026-07-13",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 2
     },
     {
       "title": "Charterer, 7YoE",
@@ -1914,8 +1920,8 @@
       "band": "12-20k",
       "status": "Needs review",
       "date": "2026-07-13",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1928
     },
     {
       "title": "Trader Energy YOE 6",
@@ -1974,8 +1980,8 @@
       "band": "N/A",
       "status": "N/A",
       "date": "2026-07-12",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1903
     },
     {
       "title": "Social Worker, Social Service Agency, 1.5 to 2 YOE",
@@ -2019,8 +2025,8 @@
       "band": "5-8k",
       "status": "Needs review",
       "date": "2026-07-12",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 953
     },
     {
       "title": "Retiring Rich!! HUATAH!!👍🏻❤️🌟🖨💵🖨💵🖨💵🖨💵🖨💵",
@@ -2034,8 +2040,8 @@
       "band": "N/A",
       "status": "N/A",
       "date": "2026-07-12",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "6-12mo",
+      "accountAgeDays": 235
     },
     {
       "title": "Assistant Sped Teacher, 1.5 YOE",
@@ -2049,8 +2055,8 @@
       "band": "3-5k",
       "status": "Needs review",
       "date": "2026-07-12",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1490
     },
     {
       "title": "Recruiter (HR)/6 YOE/GLC",
@@ -2064,8 +2070,8 @@
       "band": "3-5k",
       "status": "Needs review",
       "date": "2026-07-12",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2653
     },
     {
       "title": "F&B 0YOE / 21yo",
@@ -2079,8 +2085,8 @@
       "band": "<3k",
       "status": "Clean",
       "date": "2026-07-12",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "6-12mo",
+      "accountAgeDays": 187
     },
     {
       "title": "Director, 14 YOE, Tech MNC",
@@ -2094,8 +2100,8 @@
       "band": "50k+",
       "status": "Floor estimate",
       "date": "2026-07-12",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "28F | (5YOE) | Tech sales SDR (3Y)",
@@ -2124,8 +2130,8 @@
       "band": "5-8k",
       "status": "Clean",
       "date": "2026-07-12",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2054
     },
     {
       "title": "Compliance officer, Fintech, 10 YoE",
@@ -2139,8 +2145,8 @@
       "band": "12-20k",
       "status": "Needs review",
       "date": "2026-07-12",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "Operations Senior Manager - 10 YOE",
@@ -2154,8 +2160,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-12",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2105
     },
     {
       "title": "Gov/Civil Servant/ 20+YOE",
@@ -2169,8 +2175,8 @@
       "band": "No image",
       "status": "No image",
       "date": "2026-07-12",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 389
     },
     {
       "title": "Banking General Compliance, 9+ YOE",
@@ -2184,8 +2190,8 @@
       "band": "12-20k",
       "status": "Needs review",
       "date": "2026-07-12",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "SWE Consultancy in MNC / 4 YOE",
@@ -2199,8 +2205,8 @@
       "band": "5-8k",
       "status": "Needs review",
       "date": "2026-07-12",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 738
     },
     {
       "title": "Inhouse finance manager/electronics company/10 yoe",
@@ -2214,8 +2220,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-12",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2681
     },
     {
       "title": "L2 IT Support in BioTech | 1 YOE",
@@ -2229,8 +2235,8 @@
       "band": "<3k",
       "status": "Needs review",
       "date": "2026-07-12",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1816
     },
     {
       "title": "Head of Marketing / Finance / 21 YOE",
