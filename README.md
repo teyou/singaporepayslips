@@ -3,7 +3,6 @@
 An unofficial community dashboard for exploring public salary posts from r/singaporepayslips.
 
 Live dashboard: https://teyou.github.io/singaporepayslips/
-
 Public dataset: https://teyou.github.io/singaporepayslips/data.json
 
 ## Why this exists
