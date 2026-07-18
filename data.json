@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-07-17T15:33:28+00:00",
-  "total_posts": 330,
-  "payslip_posts": 326,
-  "with_income": 248,
+  "generated_at": "2026-07-18T01:19:23+00:00",
+  "total_posts": 333,
+  "payslip_posts": 329,
+  "with_income": 251,
   "clean_income": 80,
-  "needs_review": 168,
+  "needs_review": 171,
   "not_applicable": 25,
   "ocr_pending": 4,
   "income_counts": {
     "12-20k": 43,
-    "20-30k": 24,
+    "20-30k": 25,
     "3-5k": 35,
     "30-50k": 17,
-    "5-8k": 57,
+    "5-8k": 59,
     "50k+": 9,
     "8-12k": 52,
     "<3k": 11,
@@ -24,7 +24,7 @@
   "industry_counts": {
     "Admin / Coordination": 3,
     "Consulting / Sales": 5,
-    "Corporate Strategy / PM": 5,
+    "Corporate Strategy / PM": 6,
     "Creative / Media": 17,
     "Discussion / Non-salary": 28,
     "E-commerce / Marketplace": 3,
@@ -40,12 +40,12 @@
     "Logistics / Trade": 4,
     "Operations": 3,
     "Other": 41,
-    "Retail / F&B / Gig": 8,
+    "Retail / F&B / Gig": 9,
     "Self-Employed / Other": 8,
     "Social Services": 4,
     "Tech - IT/Infra": 19,
     "Tech - Other": 8,
-    "Tech - SWE": 20,
+    "Tech - SWE": 21,
     "Tech - Sales": 10
   },
   "occupation_counts": {
@@ -110,34 +110,52 @@
     "Social startup cofounder": 1,
     "Software Engineer": 16,
     "Teacher / Educator": 13,
+    "Tech Lead": 1,
     "Tech Lead / Engineering Manager": 3,
     "UX Designer": 1,
     "VP of strategy, real estate": 1,
     "Video Production": 1,
     "Videographer": 1,
     "Wellbeing specialist": 1,
-    "local ecommerce platform seller": 1
+    "consulting firm": 1,
+    "local ecommerce platform seller": 1,
+    "retail operations": 1
   },
   "account_age_counts": {
-    "1-3y": 35,
-    "1-6mo": 24,
-    "3y+": 92,
-    "6-12mo": 13,
-    "7-30d": 2,
-    "<7d": 26,
-    "Unknown": 134
+    "1-3y": 44,
+    "1-6mo": 49,
+    "3y+": 158,
+    "6-12mo": 17,
+    "7-30d": 3,
+    "<7d": 41,
+    "Unknown": 17
   },
   "yoe_counts": {
     "1-2 yrs": 31,
-    "11-15 yrs": 51,
+    "11-15 yrs": 52,
     "16-20 yrs": 18,
     "21+ yrs": 5,
     "3-5 yrs": 76,
-    "6-10 yrs": 99,
+    "6-10 yrs": 101,
     "Fresh Grad": 7,
     "Unknown": 39
   },
   "posts": [
+    {
+      "title": "Tech Lead, 15 YOE, Banking",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uzi1ej/tech_lead_15_yoe_banking/",
+      "industry": "Tech - SWE",
+      "occupation": "Tech Lead",
+      "sector": "Banking / Finance",
+      "yoe": 15.0,
+      "monthly": 27666.67,
+      "annual": 332000.04,
+      "band": "20-30k",
+      "status": "Needs review",
+      "date": "2026-07-18",
+      "accountAge": "3y+",
+      "accountAgeDays": 1836
+    },
     {
       "title": "42 y/o full-time unemployed gamer",
       "url": "https://old.reddit.com/r/singaporepayslips/comments/1uywlpl/42_yo_fulltime_unemployed_gamer/",
@@ -152,6 +170,21 @@
       "date": "2026-07-17",
       "accountAge": "1-3y",
       "accountAgeDays": 917
+    },
+    {
+      "title": "I vibe coded a dashboard for r/singaporepayslips salary posts",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uyyf13/i_vibe_coded_a_dashboard_for_rsingaporepayslips/",
+      "industry": "Discussion / Non-salary",
+      "occupation": "N/A",
+      "sector": "Private",
+      "yoe": null,
+      "monthly": null,
+      "annual": null,
+      "band": "N/A",
+      "status": "N/A",
+      "date": "2026-07-17",
+      "accountAge": "3y+",
+      "accountAgeDays": 5010
     },
     {
       "title": "Social Worker, 30s, FSC, 5 years of experience.",
@@ -214,6 +247,21 @@
       "accountAgeDays": 671
     },
     {
+      "title": "Social startup cofounder, 3 YOE .",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uyxrkq/social_startup_cofounder_3_yoe/",
+      "industry": "Other",
+      "occupation": "Social startup cofounder",
+      "sector": "Private",
+      "yoe": 3.0,
+      "monthly": 6666.67,
+      "annual": 80000.04,
+      "band": "5-8k",
+      "status": "Needs review",
+      "date": "2026-07-17",
+      "accountAge": "7-30d",
+      "accountAgeDays": 20
+    },
+    {
       "title": "Data Analyst, Late 20s, 6 YOE",
       "url": "https://old.reddit.com/r/singaporepayslips/comments/1uykxtx/data_analyst_late_20s_6_yoe/",
       "industry": "Tech - IT/Infra",
@@ -244,21 +292,6 @@
       "accountAgeDays": 157
     },
     {
-      "title": "Middle Office - Front Facing; Asset Management; 8 YOE;",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uyn63m/middle_office_front_facing_asset_management_8_yoe/",
-      "industry": "Other",
-      "occupation": "Middle Office - Front Facing, Asset Management",
-      "sector": "Private",
-      "yoe": 8.0,
-      "monthly": 20242.83,
-      "annual": 242913.96,
-      "band": "20-30k",
-      "status": "Needs review",
-      "date": "2026-07-17",
-      "accountAge": "3y+",
-      "accountAgeDays": 3130
-    },
-    {
       "title": "Shipping Executive / 1 YOE",
       "url": "https://old.reddit.com/r/singaporepayslips/comments/1uyul7m/shipping_executive_1_yoe/",
       "industry": "Other",
@@ -274,6 +307,21 @@
       "accountAgeDays": 2064
     },
     {
+      "title": "Middle Office - Front Facing; Asset Management; 8 YOE;",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uyn63m/middle_office_front_facing_asset_management_8_yoe/",
+      "industry": "Other",
+      "occupation": "Middle Office - Front Facing, Asset Management",
+      "sector": "Private",
+      "yoe": 8.0,
+      "monthly": 20242.83,
+      "annual": 242913.96,
+      "band": "20-30k",
+      "status": "Needs review",
+      "date": "2026-07-17",
+      "accountAge": "3y+",
+      "accountAgeDays": 3130
+    },
+    {
       "title": "Out of curiosity and generally speaking, for business owners, how much do you earn?",
       "url": "https://old.reddit.com/r/singaporepayslips/comments/1uyvbsd/out_of_curiosity_and_generally_speaking_for/",
       "industry": "Self-Employed / Other",
@@ -287,6 +335,21 @@
       "date": "2026-07-17",
       "accountAge": "3y+",
       "accountAgeDays": 2075
+    },
+    {
+      "title": "30s / retail operations / 7 YOE",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uz3ur9/30s_retail_operations_7_yoe/",
+      "industry": "Retail / F&B / Gig",
+      "occupation": "retail operations",
+      "sector": "Private",
+      "yoe": 7.0,
+      "monthly": 5500.0,
+      "annual": 66000.0,
+      "band": "5-8k",
+      "status": "Needs review",
+      "date": "2026-07-17",
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "Civil Service / 1.5 YOE",
@@ -334,34 +397,19 @@
       "accountAgeDays": 2347
     },
     {
-      "title": "Social startup cofounder, 3 YOE .",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uyxrkq/social_startup_cofounder_3_yoe/",
-      "industry": "Other",
-      "occupation": "Social startup cofounder",
-      "sector": "Private",
-      "yoe": 3.0,
-      "monthly": 6666.67,
-      "annual": 80000.04,
-      "band": "5-8k",
-      "status": "Needs review",
-      "date": "2026-07-17",
-      "accountAge": "7-30d",
-      "accountAgeDays": 20
-    },
-    {
-      "title": "I vibe coded a dashboard for r/singaporepayslips salary posts",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uyyf13/i_vibe_coded_a_dashboard_for_rsingaporepayslips/",
+      "title": "Director of Presales, Tech, 10 YOE",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uzfwzo/director_of_presales_tech_10_yoe/",
       "industry": "Discussion / Non-salary",
       "occupation": "N/A",
       "sector": "Private",
-      "yoe": null,
+      "yoe": 10.0,
       "monthly": null,
       "annual": null,
       "band": "N/A",
       "status": "N/A",
       "date": "2026-07-17",
-      "accountAge": "3y+",
-      "accountAgeDays": 5010
+      "accountAge": "1-3y",
+      "accountAgeDays": 968
     },
     {
       "title": "VP of strategy, real estate, 5yoe",
@@ -514,6 +562,21 @@
       "accountAgeDays": 0
     },
     {
+      "title": "18 YOE, foreign bank, Relationship Manager",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uy673p/18_yoe_foreign_bank_relationship_manager/",
+      "industry": "Finance / Banking",
+      "occupation": "Relationship Manager",
+      "sector": "Banking / Finance",
+      "yoe": 18.0,
+      "monthly": 16769.17,
+      "annual": 201230.04,
+      "band": "12-20k",
+      "status": "Needs review",
+      "date": "2026-07-16",
+      "accountAge": "3y+",
+      "accountAgeDays": 2095
+    },
+    {
       "title": "Public Servant (Non-Tech in Tech), 5YOE in this industry",
       "url": "https://old.reddit.com/r/singaporepayslips/comments/1uxx7kv/public_servant_nontech_in_tech_5yoe_in_this/",
       "industry": "Other",
@@ -544,19 +607,19 @@
       "accountAgeDays": 486
     },
     {
-      "title": "18 YOE, foreign bank, Relationship Manager",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uy673p/18_yoe_foreign_bank_relationship_manager/",
+      "title": "Banking, Markets, 15YOE",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uxt1l7/banking_markets_15yoe/",
       "industry": "Finance / Banking",
-      "occupation": "Relationship Manager",
+      "occupation": "Banking, Markets",
       "sector": "Banking / Finance",
-      "yoe": 18.0,
-      "monthly": 16769.17,
-      "annual": 201230.04,
-      "band": "12-20k",
+      "yoe": 15.0,
+      "monthly": 35119.83,
+      "annual": 421437.96,
+      "band": "30-50k",
       "status": "Needs review",
       "date": "2026-07-16",
-      "accountAge": "3y+",
-      "accountAgeDays": 2095
+      "accountAge": "1-3y",
+      "accountAgeDays": 665
     },
     {
       "title": "Nurse, 14yoe, PHI",
@@ -572,21 +635,6 @@
       "date": "2026-07-16",
       "accountAge": "1-6mo",
       "accountAgeDays": 43
-    },
-    {
-      "title": "Banking, Markets, 15YOE",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uxt1l7/banking_markets_15yoe/",
-      "industry": "Finance / Banking",
-      "occupation": "Banking, Markets",
-      "sector": "Banking / Finance",
-      "yoe": 15.0,
-      "monthly": 35119.83,
-      "annual": 421437.96,
-      "band": "30-50k",
-      "status": "Needs review",
-      "date": "2026-07-16",
-      "accountAge": "1-3y",
-      "accountAgeDays": 665
     },
     {
       "title": "Process Engineer 7YOE",
@@ -619,21 +667,6 @@
       "accountAgeDays": 1995
     },
     {
-      "title": "Senior SWE / 10 YOE",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uy1csb/senior_swe_10_yoe/",
-      "industry": "Tech - SWE",
-      "occupation": "Senior SWE",
-      "sector": "Private",
-      "yoe": 10.0,
-      "monthly": 13238.0,
-      "annual": 158856.0,
-      "band": "12-20k",
-      "status": "Clean",
-      "date": "2026-07-16",
-      "accountAge": "<7d",
-      "accountAgeDays": 0
-    },
-    {
       "title": "Analytics Manager, ex-mnc, 12yoe",
       "url": "https://old.reddit.com/r/singaporepayslips/comments/1uyc8vb/analytics_manager_exmnc_12yoe/",
       "industry": "Other",
@@ -644,6 +677,21 @@
       "annual": 109899.96,
       "band": "8-12k",
       "status": "Needs review",
+      "date": "2026-07-16",
+      "accountAge": "<7d",
+      "accountAgeDays": 0
+    },
+    {
+      "title": "Senior SWE / 10 YOE",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uy1csb/senior_swe_10_yoe/",
+      "industry": "Tech - SWE",
+      "occupation": "Senior SWE",
+      "sector": "Private",
+      "yoe": 10.0,
+      "monthly": 13238.0,
+      "annual": 158856.0,
+      "band": "12-20k",
+      "status": "Clean",
       "date": "2026-07-16",
       "accountAge": "<7d",
       "accountAgeDays": 0
@@ -679,21 +727,6 @@
       "accountAgeDays": 335
     },
     {
-      "title": "Wellness Coach, Network marketing, 1YOE",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uy76kw/wellness_coach_network_marketing_1yoe/",
-      "industry": "Discussion / Non-salary",
-      "occupation": "N/A",
-      "sector": "Private",
-      "yoe": 1.0,
-      "monthly": null,
-      "annual": null,
-      "band": "N/A",
-      "status": "N/A",
-      "date": "2026-07-16",
-      "accountAge": "1-3y",
-      "accountAgeDays": 934
-    },
-    {
       "title": "Account Manager - Recruitment Industry | 15YOE",
       "url": "https://old.reddit.com/r/singaporepayslips/comments/1uyffsa/account_manager_recruitment_industry_15yoe/",
       "industry": "Consulting / Sales",
@@ -707,21 +740,6 @@
       "date": "2026-07-16",
       "accountAge": "1-3y",
       "accountAgeDays": 789
-    },
-    {
-      "title": "Wellbeing specialist, 7YOE in SPED + social service",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uxtb5p/wellbeing_specialist_7yoe_in_sped_social_service/",
-      "industry": "Education",
-      "occupation": "Wellbeing specialist",
-      "sector": "Social Service Agency",
-      "yoe": 7.0,
-      "monthly": 6750.0,
-      "annual": 81000.0,
-      "band": "5-8k",
-      "status": "Needs review",
-      "date": "2026-07-16",
-      "accountAge": "3y+",
-      "accountAgeDays": 3133
     },
     {
       "title": "Senior Marketing Director / 18 YOE",
@@ -739,49 +757,19 @@
       "accountAgeDays": 2145
     },
     {
-      "title": "PM in tech. 6 YOE.",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uxrwa1/pm_in_tech_6_yoe/",
-      "industry": "Other",
-      "occupation": "Other / Unspecified",
+      "title": "Wellness Coach, Network marketing, 1YOE",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uy76kw/wellness_coach_network_marketing_1yoe/",
+      "industry": "Discussion / Non-salary",
+      "occupation": "N/A",
       "sector": "Private",
-      "yoe": 6.0,
+      "yoe": 1.0,
       "monthly": null,
       "annual": null,
-      "band": "No image",
-      "status": "No image",
+      "band": "N/A",
+      "status": "N/A",
       "date": "2026-07-16",
-      "accountAge": "1-6mo",
-      "accountAgeDays": 87
-    },
-    {
-      "title": "KYC Officer(Securities Firm), 2 YOE",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uy1vqe/kyc_officersecurities_firm_2_yoe/",
-      "industry": "Other",
-      "occupation": "KYC Officer (Securities Firm)",
-      "sector": "Private",
-      "yoe": 2.0,
-      "monthly": 4557.5,
-      "annual": 54690.0,
-      "band": "3-5k",
-      "status": "Needs review",
-      "date": "2026-07-16",
-      "accountAge": "3y+",
-      "accountAgeDays": 2095
-    },
-    {
-      "title": "Thinking we should compile a list of side gigs that we can do to earn some extra money. I think focusing on one income will demoralise you if you happen to choose a career path that is lower paying but fomo about those 6 digits income.",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uxvtk3/thinking_we_should_compile_a_list_of_side_gigs/",
-      "industry": "Other",
-      "occupation": "Other / Unspecified",
-      "sector": "Private",
-      "yoe": null,
-      "monthly": null,
-      "annual": null,
-      "band": "No image",
-      "status": "No image",
-      "date": "2026-07-16",
-      "accountAge": "3y+",
-      "accountAgeDays": 2022
+      "accountAge": "1-3y",
+      "accountAgeDays": 934
     },
     {
       "title": "Senior Engineer / Civil Service / 5 YOE",
@@ -799,6 +787,21 @@
       "accountAgeDays": 751
     },
     {
+      "title": "PM in tech. 6 YOE.",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uxrwa1/pm_in_tech_6_yoe/",
+      "industry": "Other",
+      "occupation": "Other / Unspecified",
+      "sector": "Private",
+      "yoe": 6.0,
+      "monthly": null,
+      "annual": null,
+      "band": "No image",
+      "status": "No image",
+      "date": "2026-07-16",
+      "accountAge": "1-6mo",
+      "accountAgeDays": 87
+    },
+    {
       "title": "SWE Fintech 2.5yoe",
       "url": "https://old.reddit.com/r/singaporepayslips/comments/1uxzsbb/swe_fintech_25yoe/",
       "industry": "Tech - SWE",
@@ -812,6 +815,51 @@
       "date": "2026-07-16",
       "accountAge": "3y+",
       "accountAgeDays": 1915
+    },
+    {
+      "title": "KYC Officer(Securities Firm), 2 YOE",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uy1vqe/kyc_officersecurities_firm_2_yoe/",
+      "industry": "Other",
+      "occupation": "KYC Officer (Securities Firm)",
+      "sector": "Private",
+      "yoe": 2.0,
+      "monthly": 4557.5,
+      "annual": 54690.0,
+      "band": "3-5k",
+      "status": "Needs review",
+      "date": "2026-07-16",
+      "accountAge": "3y+",
+      "accountAgeDays": 2095
+    },
+    {
+      "title": "Wellbeing specialist, 7YOE in SPED + social service",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uxtb5p/wellbeing_specialist_7yoe_in_sped_social_service/",
+      "industry": "Education",
+      "occupation": "Wellbeing specialist",
+      "sector": "Social Service Agency",
+      "yoe": 7.0,
+      "monthly": 6750.0,
+      "annual": 81000.0,
+      "band": "5-8k",
+      "status": "Needs review",
+      "date": "2026-07-16",
+      "accountAge": "3y+",
+      "accountAgeDays": 3133
+    },
+    {
+      "title": "Thinking we should compile a list of side gigs that we can do to earn some extra money. I think focusing on one income will demoralise you if you happen to choose a career path that is lower paying but fomo about those 6 digits income.",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uxvtk3/thinking_we_should_compile_a_list_of_side_gigs/",
+      "industry": "Other",
+      "occupation": "Other / Unspecified",
+      "sector": "Private",
+      "yoe": null,
+      "monthly": null,
+      "annual": null,
+      "band": "No image",
+      "status": "No image",
+      "date": "2026-07-16",
+      "accountAge": "3y+",
+      "accountAgeDays": 2022
     },
     {
       "title": "Age 28 / WSHC / about 3 YOE",
@@ -934,21 +982,6 @@
       "accountAgeDays": 628
     },
     {
-      "title": "HR, 3.5 YOE",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uwz28k/hr_35_yoe/",
-      "industry": "HR / Recruitment",
-      "occupation": "HR / Recruiter",
-      "sector": "Private",
-      "yoe": 3.5,
-      "monthly": 4569.08,
-      "annual": 54828.96,
-      "band": "3-5k",
-      "status": "Needs review",
-      "date": "2026-07-15",
-      "accountAge": "3y+",
-      "accountAgeDays": 2314
-    },
-    {
       "title": "Financial advisor / 1 year",
       "url": "https://old.reddit.com/r/singaporepayslips/comments/1ux2ubl/financial_advisor_1_year/",
       "industry": "Discussion / Non-salary",
@@ -962,6 +995,21 @@
       "date": "2026-07-15",
       "accountAge": "1-6mo",
       "accountAgeDays": 121
+    },
+    {
+      "title": "HR, 3.5 YOE",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uwz28k/hr_35_yoe/",
+      "industry": "HR / Recruitment",
+      "occupation": "HR / Recruiter",
+      "sector": "Private",
+      "yoe": 3.5,
+      "monthly": 4569.08,
+      "annual": 54828.96,
+      "band": "3-5k",
+      "status": "Needs review",
+      "date": "2026-07-15",
+      "accountAge": "3y+",
+      "accountAgeDays": 2314
     },
     {
       "title": "Video Production, 3-4 YOE, mid 20s",
@@ -1024,19 +1072,19 @@
       "accountAgeDays": 3368
     },
     {
-      "title": "Semi-retired/self-employed. Doing some side consulting work now",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uwy677/semiretiredselfemployed_doing_some_side/",
-      "industry": "Self-Employed / Other",
-      "occupation": "Business Owner / Self-Employed",
-      "sector": "Self-Employed",
-      "yoe": null,
-      "monthly": 7587.83,
-      "annual": 91053.96,
-      "band": "5-8k",
-      "status": "Needs review",
+      "title": "preschool teacher, 6YOE",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uwvrfq/preschool_teacher_6yoe/",
+      "industry": "Education",
+      "occupation": "Teacher / Educator",
+      "sector": "Private",
+      "yoe": 6.0,
+      "monthly": 4650.0,
+      "annual": 55800.0,
+      "band": "3-5k",
+      "status": "Clean",
       "date": "2026-07-15",
-      "accountAge": "3y+",
-      "accountAgeDays": 2078
+      "accountAge": "1-3y",
+      "accountAgeDays": 986
     },
     {
       "title": "IT, 15 YOE. 2nd level IT support with a secondary role of ITSM and project rollout. Finance Sectorz",
@@ -1084,19 +1132,19 @@
       "accountAgeDays": 0
     },
     {
-      "title": "preschool teacher, 6YOE",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uwvrfq/preschool_teacher_6yoe/",
-      "industry": "Education",
-      "occupation": "Teacher / Educator",
-      "sector": "Private",
-      "yoe": 6.0,
-      "monthly": 4650.0,
-      "annual": 55800.0,
-      "band": "3-5k",
-      "status": "Clean",
+      "title": "Semi-retired/self-employed. Doing some side consulting work now",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uwy677/semiretiredselfemployed_doing_some_side/",
+      "industry": "Self-Employed / Other",
+      "occupation": "Business Owner / Self-Employed",
+      "sector": "Self-Employed",
+      "yoe": null,
+      "monthly": 7587.83,
+      "annual": 91053.96,
+      "band": "5-8k",
+      "status": "Needs review",
       "date": "2026-07-15",
-      "accountAge": "1-3y",
-      "accountAgeDays": 986
+      "accountAge": "3y+",
+      "accountAgeDays": 2078
     },
     {
       "title": "Bank Credit Analyst, 3+ YOE",
@@ -1144,21 +1192,6 @@
       "accountAgeDays": 2627
     },
     {
-      "title": "GP, PGY8 (7 YOE)",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1ux1p1r/gp_pgy8_7_yoe/",
-      "industry": "Other",
-      "occupation": "Other / Unspecified",
-      "sector": "Private",
-      "yoe": 7.0,
-      "monthly": 21000.0,
-      "annual": 252000.0,
-      "band": "20-30k",
-      "status": "Needs review",
-      "date": "2026-07-15",
-      "accountAge": "3y+",
-      "accountAgeDays": 1991
-    },
-    {
       "title": "Preschool Educator/ 4 YOE / Mid 20+",
       "url": "https://old.reddit.com/r/singaporepayslips/comments/1uxc5u8/preschool_educator_4_yoe_mid_20/",
       "industry": "Education",
@@ -1172,6 +1205,21 @@
       "date": "2026-07-15",
       "accountAge": "3y+",
       "accountAgeDays": 1632
+    },
+    {
+      "title": "GP, PGY8 (7 YOE)",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1ux1p1r/gp_pgy8_7_yoe/",
+      "industry": "Other",
+      "occupation": "Other / Unspecified",
+      "sector": "Private",
+      "yoe": 7.0,
+      "monthly": 21000.0,
+      "annual": 252000.0,
+      "band": "20-30k",
+      "status": "Needs review",
+      "date": "2026-07-15",
+      "accountAge": "3y+",
+      "accountAgeDays": 1991
     },
     {
       "title": "Comms, MNC, >20YoE",
@@ -1189,21 +1237,6 @@
       "accountAgeDays": 1081
     },
     {
-      "title": "Marketing/Creative - Biz owner, 3 YOE. not a good year",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uwy86p/marketingcreative_biz_owner_3_yoe_not_a_good_year/",
-      "industry": "Creative / Media",
-      "occupation": "Designer / Creative",
-      "sector": "Private",
-      "yoe": 3.0,
-      "monthly": null,
-      "annual": null,
-      "band": "No image",
-      "status": "No image",
-      "date": "2026-07-15",
-      "accountAge": "3y+",
-      "accountAgeDays": 2193
-    },
-    {
       "title": "Why is there no Insurance Agent/property agent ? This sub just fact checked all the top North , top sales blah blah",
       "url": "https://old.reddit.com/r/singaporepayslips/comments/1uwwld2/why_is_there_no_insurance_agentproperty_agent/",
       "industry": "Other",
@@ -1217,6 +1250,21 @@
       "date": "2026-07-15",
       "accountAge": "3y+",
       "accountAgeDays": 2068
+    },
+    {
+      "title": "Marketing/Creative - Biz owner, 3 YOE. not a good year",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uwy86p/marketingcreative_biz_owner_3_yoe_not_a_good_year/",
+      "industry": "Creative / Media",
+      "occupation": "Designer / Creative",
+      "sector": "Private",
+      "yoe": 3.0,
+      "monthly": null,
+      "annual": null,
+      "band": "No image",
+      "status": "No image",
+      "date": "2026-07-15",
+      "accountAge": "3y+",
+      "accountAgeDays": 2193
     },
     {
       "title": "Videographer, 2.5 YOE",
@@ -1354,21 +1402,6 @@
       "accountAgeDays": 727
     },
     {
-      "title": "Trading 10 YOE",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uw51si/trading_10_yoe/",
-      "industry": "Finance / Banking",
-      "occupation": "Finance / Banking",
-      "sector": "Private",
-      "yoe": 10.0,
-      "monthly": 94666.67,
-      "annual": 1136000.04,
-      "band": "50k+",
-      "status": "Needs review",
-      "date": "2026-07-14",
-      "accountAge": "3y+",
-      "accountAgeDays": 1432
-    },
-    {
       "title": "SSN1 in public hospital / 7YOE",
       "url": "https://old.reddit.com/r/singaporepayslips/comments/1uw8ll0/ssn1_in_public_hospital_7yoe/",
       "industry": "Other",
@@ -1382,6 +1415,21 @@
       "date": "2026-07-14",
       "accountAge": "1-3y",
       "accountAgeDays": 923
+    },
+    {
+      "title": "Trading 10 YOE",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uw51si/trading_10_yoe/",
+      "industry": "Finance / Banking",
+      "occupation": "Finance / Banking",
+      "sector": "Private",
+      "yoe": 10.0,
+      "monthly": 94666.67,
+      "annual": 1136000.04,
+      "band": "50k+",
+      "status": "Needs review",
+      "date": "2026-07-14",
+      "accountAge": "3y+",
+      "accountAgeDays": 1432
     },
     {
       "title": "Senior staff nurse/ public healthcare/ 13 YOE",
@@ -1399,21 +1447,6 @@
       "accountAgeDays": 614
     },
     {
-      "title": "Assistant Manager, Public Healthcare Admin, 17 YOE",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uvwe3o/assistant_manager_public_healthcare_admin_17_yoe/",
-      "industry": "Healthcare",
-      "occupation": "Admin / Coordinator",
-      "sector": "Private",
-      "yoe": 17.0,
-      "monthly": 7703.0,
-      "annual": 92436.0,
-      "band": "5-8k",
-      "status": "Needs review",
-      "date": "2026-07-14",
-      "accountAge": "3y+",
-      "accountAgeDays": 3397
-    },
-    {
       "title": "site reliability engineer, 2 YOE",
       "url": "https://old.reddit.com/r/singaporepayslips/comments/1uvy2sy/site_reliability_engineer_2_yoe/",
       "industry": "Engineering",
@@ -1427,6 +1460,21 @@
       "date": "2026-07-14",
       "accountAge": "3y+",
       "accountAgeDays": 1277
+    },
+    {
+      "title": "Assistant Manager, Public Healthcare Admin, 17 YOE",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uvwe3o/assistant_manager_public_healthcare_admin_17_yoe/",
+      "industry": "Healthcare",
+      "occupation": "Admin / Coordinator",
+      "sector": "Private",
+      "yoe": 17.0,
+      "monthly": 7703.0,
+      "annual": 92436.0,
+      "band": "5-8k",
+      "status": "Needs review",
+      "date": "2026-07-14",
+      "accountAge": "3y+",
+      "accountAgeDays": 3397
     },
     {
       "title": "Oil & Gas trading operation, 3 YOE",
@@ -1489,21 +1537,6 @@
       "accountAgeDays": 1981
     },
     {
-      "title": "Senior SWE, 4 YOE",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uvyl8p/senior_swe_4_yoe/",
-      "industry": "Tech - SWE",
-      "occupation": "Software Engineer",
-      "sector": "Private",
-      "yoe": 4.0,
-      "monthly": 11125.25,
-      "annual": 133503.0,
-      "band": "8-12k",
-      "status": "Needs review",
-      "date": "2026-07-14",
-      "accountAge": "1-6mo",
-      "accountAgeDays": 179
-    },
-    {
       "title": "CC (Complex Leader) SGP, 9 YOE",
       "url": "https://old.reddit.com/r/singaporepayslips/comments/1uvv9ll/cc_complex_leader_sgp_9_yoe/",
       "industry": "Other",
@@ -1519,19 +1552,19 @@
       "accountAgeDays": 199
     },
     {
-      "title": "Middle office, global bank / 15 YOE",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uw5vgy/middle_office_global_bank_15_yoe/",
-      "industry": "Finance / Banking",
-      "occupation": "Finance / Banking",
-      "sector": "Banking / Finance",
-      "yoe": 15.0,
-      "monthly": 15833.33,
-      "annual": 189999.96,
-      "band": "12-20k",
+      "title": "Senior SWE, 4 YOE",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uvyl8p/senior_swe_4_yoe/",
+      "industry": "Tech - SWE",
+      "occupation": "Software Engineer",
+      "sector": "Private",
+      "yoe": 4.0,
+      "monthly": 11125.25,
+      "annual": 133503.0,
+      "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-14",
-      "accountAge": "<7d",
-      "accountAgeDays": 0
+      "accountAge": "1-6mo",
+      "accountAgeDays": 179
     },
     {
       "title": "Product manager in tech 5YOE",
@@ -1547,6 +1580,21 @@
       "date": "2026-07-14",
       "accountAge": "6-12mo",
       "accountAgeDays": 335
+    },
+    {
+      "title": "Middle office, global bank / 15 YOE",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uw5vgy/middle_office_global_bank_15_yoe/",
+      "industry": "Finance / Banking",
+      "occupation": "Finance / Banking",
+      "sector": "Banking / Finance",
+      "yoe": 15.0,
+      "monthly": 15833.33,
+      "annual": 189999.96,
+      "band": "12-20k",
+      "status": "Needs review",
+      "date": "2026-07-14",
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "Legal, 1 YOE after Call, mid-sized firm.",
@@ -1654,21 +1702,6 @@
       "accountAgeDays": 561
     },
     {
-      "title": "Full-time ministry, 6(?)YOE",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uvacxm/fulltime_ministry_6yoe/",
-      "industry": "Other",
-      "occupation": "Other / Unspecified",
-      "sector": "Private",
-      "yoe": null,
-      "monthly": 5180.0,
-      "annual": 62160.0,
-      "band": "5-8k",
-      "status": "Needs review",
-      "date": "2026-07-13",
-      "accountAge": "<7d",
-      "accountAgeDays": 0
-    },
-    {
       "title": "Senior equipment engineer, Micron Semiconductor, 11 YOE",
       "url": null,
       "industry": "Engineering",
@@ -1697,6 +1730,21 @@
       "date": "2026-07-13",
       "accountAge": "1-3y",
       "accountAgeDays": 1085
+    },
+    {
+      "title": "Full-time ministry, 6(?)YOE",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uvacxm/fulltime_ministry_6yoe/",
+      "industry": "Other",
+      "occupation": "Other / Unspecified",
+      "sector": "Private",
+      "yoe": null,
+      "monthly": 5180.0,
+      "annual": 62160.0,
+      "band": "5-8k",
+      "status": "Needs review",
+      "date": "2026-07-13",
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "Video Editor, Media, 9YOE",
@@ -1774,6 +1822,21 @@
       "accountAgeDays": 2989
     },
     {
+      "title": "Refinery technician, 4 YOE",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uvkowv/refinery_technician_4_yoe/",
+      "industry": "Engineering",
+      "occupation": "Engineer / Technician",
+      "sector": "Private",
+      "yoe": 4.0,
+      "monthly": 5941.67,
+      "annual": 71300.04,
+      "band": "5-8k",
+      "status": "Needs review",
+      "date": "2026-07-13",
+      "accountAge": "3y+",
+      "accountAgeDays": 1987
+    },
+    {
       "title": "Technical Officer, Power Industry, 5YOE",
       "url": "https://old.reddit.com/r/singaporepayslips/comments/1uuy4yw/technical_officer_power_industry_5yoe/",
       "industry": "Energy / Utilities",
@@ -1802,21 +1865,6 @@
       "date": "2026-07-13",
       "accountAge": "1-6mo",
       "accountAgeDays": 119
-    },
-    {
-      "title": "Refinery technician, 4 YOE",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uvkowv/refinery_technician_4_yoe/",
-      "industry": "Engineering",
-      "occupation": "Engineer / Technician",
-      "sector": "Private",
-      "yoe": 4.0,
-      "monthly": 5941.67,
-      "annual": 71300.04,
-      "band": "5-8k",
-      "status": "Needs review",
-      "date": "2026-07-13",
-      "accountAge": "3y+",
-      "accountAgeDays": 1987
     },
     {
       "title": "Airport Ops / 4 YOE",
@@ -2134,21 +2182,6 @@
       "accountAgeDays": 2054
     },
     {
-      "title": "Compliance officer, Fintech, 10 YoE",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uuey0v/compliance_officer_fintech_10_yoe/",
-      "industry": "Finance / Banking",
-      "occupation": "Finance / Banking",
-      "sector": "Banking / Finance",
-      "yoe": 10.0,
-      "monthly": 19083.33,
-      "annual": 228999.96,
-      "band": "12-20k",
-      "status": "Needs review",
-      "date": "2026-07-12",
-      "accountAge": "<7d",
-      "accountAgeDays": 0
-    },
-    {
       "title": "Operations Senior Manager - 10 YOE",
       "url": "https://old.reddit.com/r/singaporepayslips/comments/1uuhrjz/operations_senior_manager_10_yoe/",
       "industry": "Operations",
@@ -2177,6 +2210,21 @@
       "date": "2026-07-12",
       "accountAge": "1-3y",
       "accountAgeDays": 389
+    },
+    {
+      "title": "Compliance officer, Fintech, 10 YoE",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uuey0v/compliance_officer_fintech_10_yoe/",
+      "industry": "Finance / Banking",
+      "occupation": "Finance / Banking",
+      "sector": "Banking / Finance",
+      "yoe": 10.0,
+      "monthly": 19083.33,
+      "annual": 228999.96,
+      "band": "12-20k",
+      "status": "Needs review",
+      "date": "2026-07-12",
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "Banking General Compliance, 9+ YOE",
@@ -2721,14 +2769,14 @@
     {
       "title": "32 yo, consulting firm, 9 YOE",
       "url": "https://old.reddit.com/r/singaporepayslips/comments/1usk7f4/32_yo_consulting_firm_9_yoe/",
-      "industry": "Discussion / Non-salary",
-      "occupation": "N/A",
+      "industry": "Corporate Strategy / PM",
+      "occupation": "consulting firm",
       "sector": "Private",
       "yoe": 9.0,
-      "monthly": null,
-      "annual": null,
-      "band": "N/A",
-      "status": "N/A",
+      "monthly": 5666.67,
+      "annual": 68000.04,
+      "band": "5-8k",
+      "status": "Needs review",
       "date": "2026-07-10",
       "accountAge": "3y+",
       "accountAgeDays": 1750
@@ -3150,8 +3198,8 @@
       "band": "3-5k",
       "status": "Clean",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2005
     },
     {
       "title": "30 YOE, MD Tech MNC",
@@ -3165,8 +3213,8 @@
       "band": "50k+",
       "status": "Clean",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2935
     },
     {
       "title": "Self employed, semi retired, tax bill under $10.",
@@ -3180,8 +3228,8 @@
       "band": "<3k",
       "status": "Needs review",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "Self employed, semi retired",
@@ -3210,8 +3258,8 @@
       "band": "<3k",
       "status": "Clean",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2413
     },
     {
       "title": "Tech, 8 yoe",
@@ -3225,8 +3273,8 @@
       "band": "12-20k",
       "status": "Needs review",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 1
     },
     {
       "title": "Marketing in Tech / 9 YOE",
@@ -3240,8 +3288,8 @@
       "band": "5-8k",
       "status": "Needs review",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 3024
     },
     {
       "title": "Self-employed Futures Trader (Crypto) / 5 YoE",
@@ -3255,8 +3303,8 @@
       "band": "N/A",
       "status": "N/A",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2024
     },
     {
       "title": "Counsellor, Social Service Agency, 3 YOE",
@@ -3270,8 +3318,8 @@
       "band": "5-8k",
       "status": "Clean",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 3454
     },
     {
       "title": "2YOE, MX12 l, Civil Service",
@@ -3285,8 +3333,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 163
     },
     {
       "title": "2YOE, MX12 Civil Service",
@@ -3315,8 +3363,8 @@
       "band": "30-50k",
       "status": "Needs review",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "28F, operations, YOE 4",
@@ -3330,8 +3378,8 @@
       "band": "5-8k",
       "status": "Clean",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 127
     },
     {
       "title": "SRE / Platform Engineer, 5 YOE",
@@ -3345,8 +3393,8 @@
       "band": "20-30k",
       "status": "Needs review",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "7-30d",
+      "accountAgeDays": 16
     },
     {
       "title": "Retail Promoter 2YOE (How cooked am i as a 26yo poly dropout?) I welcomed harsh truth & advice.",
@@ -3360,8 +3408,8 @@
       "band": "3-5k",
       "status": "Needs review",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2113
     },
     {
       "title": "Retail Promoter 2YOE",
@@ -3390,8 +3438,8 @@
       "band": "3-5k",
       "status": "Clean",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 5247
     },
     {
       "title": "6 years, SM, public healthcare",
@@ -3405,8 +3453,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1988
     },
     {
       "title": "Commodity Trading Operations, 5 YOE",
@@ -3420,8 +3468,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 3663
     },
     {
       "title": "technician (rail) / 9(YOE)",
@@ -3435,8 +3483,8 @@
       "band": "3-5k",
       "status": "Clean",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1603
     },
     {
       "title": "Account Manager, 7YOE",
@@ -3450,8 +3498,8 @@
       "band": "12-20k",
       "status": "Needs review",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2659
     },
     {
       "title": "Joint business owner, 17 years in the workforce.",
@@ -3465,8 +3513,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 4623
     },
     {
       "title": "FP&A in Finance, 7 YOE",
@@ -3480,8 +3528,8 @@
       "band": "8-12k",
       "status": "Clean",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1612
     },
     {
       "title": "Facilities Management Exec (Main Con), 9YoE + bus driving as a side gig sometimes. 😔",
@@ -3495,8 +3543,8 @@
       "band": "No image",
       "status": "No image",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 4366
     },
     {
       "title": "education tech trainer 3YOE",
@@ -3510,8 +3558,8 @@
       "band": "3-5k",
       "status": "Clean",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2489
     },
     {
       "title": "Facilities Management Exec (Main Con), 9YoE",
@@ -3540,8 +3588,8 @@
       "band": "12-20k",
       "status": "Clean",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2323
     },
     {
       "title": "Media (business/fin coverage), 5YOE",
@@ -3555,8 +3603,8 @@
       "band": "12-20k",
       "status": "Clean",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 1080
     },
     {
       "title": "FP&A (13YOE)",
@@ -3570,8 +3618,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 3642
     },
     {
       "title": "Customer Service in Oil & Gas, 4 Year Exp",
@@ -3585,8 +3633,8 @@
       "band": "5-8k",
       "status": "Clean",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 3442
     },
     {
       "title": "Software Developer , 4 YOE",
@@ -3600,8 +3648,8 @@
       "band": "No image",
       "status": "No image",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2195
     },
     {
       "title": "Big Tech SRE. YOE 15",
@@ -3615,8 +3663,8 @@
       "band": "50k+",
       "status": "Needs review",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 1
     },
     {
       "title": "IT support/6 YOE",
@@ -3630,8 +3678,8 @@
       "band": "No image",
       "status": "No image",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 115
     },
     {
       "title": "Tech presales",
@@ -3645,8 +3693,8 @@
       "band": "5-8k",
       "status": "Needs review",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1850
     },
     {
       "title": "FRESH GRAD 1 YOE",
@@ -3660,8 +3708,8 @@
       "band": "No salary",
       "status": "No salary",
       "date": "2026-07-09",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 590
     },
     {
       "title": "MHA Uniform Hi-Nitec 17yr rookie.",
@@ -3675,8 +3723,8 @@
       "band": "5-8k",
       "status": "Clean",
       "date": "2026-07-08",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "Private Equity 4YOE, Medical Officer/Junior Resident PGY4",
@@ -3690,8 +3738,8 @@
       "band": "N/A",
       "status": "N/A",
       "date": "2026-07-08",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1724
     },
     {
       "title": "In-house Legal / 6YOE",
@@ -3705,8 +3753,8 @@
       "band": "OCR pending",
       "status": "Pending OCR",
       "date": "2026-07-08",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 114
     },
     {
       "title": "SaaS / Tech sales / 12 YOE",
@@ -3720,8 +3768,8 @@
       "band": "30-50k",
       "status": "Needs review",
       "date": "2026-07-08",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 390
     },
     {
       "title": "Farmer Stat Board Engineer, 3 YOE",
@@ -3735,8 +3783,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-08",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 3764
     },
     {
       "title": "Allied health professional (Public Hospital) / 6 YOE",
@@ -3750,8 +3798,8 @@
       "band": "5-8k",
       "status": "Needs review",
       "date": "2026-07-08",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "Manager in Gov, 8 YOE (other half in private)",
@@ -3765,8 +3813,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-08",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 663
     },
     {
       "title": "Manager in Gov, 8 YOE",
@@ -3810,8 +3858,8 @@
       "band": "12-20k",
       "status": "Needs review",
       "date": "2026-07-08",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 150
     },
     {
       "title": "In house legal / 20 YOE",
@@ -3825,8 +3873,8 @@
       "band": "20-30k",
       "status": "Clean",
       "date": "2026-07-08",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 4277
     },
     {
       "title": "Tech sales / 4YOE",
@@ -3840,8 +3888,8 @@
       "band": "20-30k",
       "status": "Needs review",
       "date": "2026-07-08",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 1
     },
     {
       "title": "Compliance insurance 4 yoe",
@@ -3855,8 +3903,8 @@
       "band": "5-8k",
       "status": "Needs review",
       "date": "2026-07-08",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "Non coding tech 3.5 YOE",
@@ -3870,8 +3918,8 @@
       "band": "8-12k",
       "status": "Clean",
       "date": "2026-07-08",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 1
     },
     {
       "title": "Marketing, 15 YOE",
@@ -3885,8 +3933,8 @@
       "band": "20-30k",
       "status": "Needs review",
       "date": "2026-07-08",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1095
     },
     {
       "title": "Tech non-SWE, 8 YoE",
@@ -3900,8 +3948,8 @@
       "band": "20-30k",
       "status": "Clean",
       "date": "2026-07-08",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2559
     },
     {
       "title": "Network Engineer > Infra Engineer / 10 YOE",
@@ -3915,8 +3963,8 @@
       "band": "N/A",
       "status": "N/A",
       "date": "2026-07-08",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 4580
     },
     {
       "title": "IT 11 years",
@@ -3945,8 +3993,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-08",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1706
     },
     {
       "title": "IT Infrastructure, FI, 15 YOE",
@@ -3960,8 +4008,8 @@
       "band": "12-20k",
       "status": "Needs review",
       "date": "2026-07-08",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1968
     },
     {
       "title": "~9 YOE - Corp Dev (in-house M&A)",
@@ -3975,8 +4023,8 @@
       "band": "12-20k",
       "status": "Clean",
       "date": "2026-07-08",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 161
     },
     {
       "title": "Purchasing Executive, 4 YOE",
@@ -3990,8 +4038,8 @@
       "band": "20-30k",
       "status": "Needs review",
       "date": "2026-07-08",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 114
     },
     {
       "title": "IT Engineer 15YOE",
@@ -4005,8 +4053,8 @@
       "band": "No image",
       "status": "No image",
       "date": "2026-07-08",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 86
     },
     {
       "title": "Public Service, Engineer (Stat Board), 15 YoE",
@@ -4020,8 +4068,8 @@
       "band": "20-30k",
       "status": "Needs review",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2068
     },
     {
       "title": "Nurse (Public Hospital) 6yoe",
@@ -4035,8 +4083,8 @@
       "band": "5-8k",
       "status": "Clean",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 3108
     },
     {
       "title": "FICC sell side macro trader 4YOE",
@@ -4050,8 +4098,8 @@
       "band": "30-50k",
       "status": "Clean",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2058
     },
     {
       "title": "Lab technician, 16 YOE",
@@ -4065,8 +4113,8 @@
       "band": "3-5k",
       "status": "Needs review",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1933
     },
     {
       "title": "Principal Engineer, Aviation Industry, 25 YOE",
@@ -4080,8 +4128,8 @@
       "band": "20-30k",
       "status": "Needs review",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 113
     },
     {
       "title": "Project Manager. YOE 14. 36 yo",
@@ -4095,8 +4143,8 @@
       "band": "12-20k",
       "status": "Needs review",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2021
     },
     {
       "title": "Tech Sales, SDR (1.5 YOE)",
@@ -4110,8 +4158,8 @@
       "band": "30-50k",
       "status": "Clean",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1189
     },
     {
       "title": "MHA uniformed, diploma, 14yrs service",
@@ -4125,8 +4173,8 @@
       "band": "8-12k",
       "status": "Clean",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 157
     },
     {
       "title": "12 years in marketing",
@@ -4140,8 +4188,8 @@
       "band": "12-20k",
       "status": "Needs review",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 681
     },
     {
       "title": "Finance, banking industry, 8 YOE",
@@ -4155,8 +4203,8 @@
       "band": "12-20k",
       "status": "Needs review",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 842
     },
     {
       "title": "AHP, 4 YOE",
@@ -4170,8 +4218,8 @@
       "band": "3-5k",
       "status": "Needs review",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 3824
     },
     {
       "title": "Personal Trainer (Self-employed), 14 YOE",
@@ -4185,8 +4233,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2464
     },
     {
       "title": "Corp Strategy, 6 YOE",
@@ -4200,8 +4248,8 @@
       "band": "20-30k",
       "status": "Needs review",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 113
     },
     {
       "title": "Associate Consultant, YOE 11",
@@ -4215,8 +4263,8 @@
       "band": "20-30k",
       "status": "Needs review",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1945
     },
     {
       "title": "digital marketing, 4 YOE",
@@ -4230,8 +4278,8 @@
       "band": "5-8k",
       "status": "Needs review",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2275
     },
     {
       "title": "Tech sales, 10 YOE",
@@ -4245,8 +4293,8 @@
       "band": "20-30k",
       "status": "Needs review",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1984
     },
     {
       "title": "Field Applications Scientist, Life Science Industry, 8 YOE.",
@@ -4260,8 +4308,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2003
     },
     {
       "title": "Cloud Engineer - 3YOE",
@@ -4275,8 +4323,8 @@
       "band": "12-20k",
       "status": "Needs review",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "6-12mo",
+      "accountAgeDays": 282
     },
     {
       "title": "Tech business analyst - 8 YOE",
@@ -4290,8 +4338,8 @@
       "band": "12-20k",
       "status": "Needs review",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2130
     },
     {
       "title": "6 YOE, Logistics",
@@ -4305,8 +4353,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1874
     },
     {
       "title": "10+ YOE/ Corp Dev",
@@ -4320,8 +4368,8 @@
       "band": "12-20k",
       "status": "Needs review",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 113
     },
     {
       "title": "SWE Mid-Career 8YOE",
@@ -4335,8 +4383,8 @@
       "band": "No image",
       "status": "No image",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2141
     },
     {
       "title": "Tech 10+ YOE",
@@ -4350,8 +4398,8 @@
       "band": "<3k",
       "status": "Needs review",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 526
     },
     {
       "title": "IT 11 years at that point of time",
@@ -4365,8 +4413,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1473
     },
     {
       "title": "Tech Sales >15 years",
@@ -4380,8 +4428,8 @@
       "band": "N/A",
       "status": "N/A",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 145
     },
     {
       "title": "Marketing intern 1 YOE",
@@ -4395,8 +4443,8 @@
       "band": "No salary",
       "status": "No salary",
       "date": "2026-07-07",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 113
     },
     {
       "title": "1.5 YOE, Education (Non-Teaching)",
@@ -4410,8 +4458,8 @@
       "band": "3-5k",
       "status": "Needs review",
       "date": "2026-07-06",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 67
     },
     {
       "title": "Software Engineer / 3 YOE",
@@ -4425,8 +4473,8 @@
       "band": "5-8k",
       "status": "Clean",
       "date": "2026-07-06",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "6-12mo",
+      "accountAgeDays": 281
     },
     {
       "title": "Associate consultant, 8yoe",
@@ -4440,8 +4488,8 @@
       "band": "20-30k",
       "status": "Needs review",
       "date": "2026-07-06",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 121
     },
     {
       "title": "Site Reliability Engineer, 3 YOE",
@@ -4455,8 +4503,8 @@
       "band": "5-8k",
       "status": "Clean",
       "date": "2026-07-06",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 3267
     },
     {
       "title": "Network Engineer 5YOE (Diploma Grad)",
@@ -4470,8 +4518,8 @@
       "band": "12-20k",
       "status": "Clean",
       "date": "2026-07-06",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 3824
     },
     {
       "title": "Litigation Paralegal (3 YOE)",
@@ -4485,8 +4533,8 @@
       "band": "3-5k",
       "status": "Needs review",
       "date": "2026-07-06",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2380
     },
     {
       "title": "Tech sector (Software PM)",
@@ -4515,8 +4563,8 @@
       "band": "30-50k",
       "status": "Needs review",
       "date": "2026-07-06",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1367
     },
     {
       "title": "coming 5YOE, GLC",
@@ -4530,8 +4578,8 @@
       "band": "30-50k",
       "status": "Clean",
       "date": "2026-07-06",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 146
     },
     {
       "title": "Lead HR / 10+YOE / 50s",
@@ -4545,8 +4593,8 @@
       "band": "No image",
       "status": "No image",
       "date": "2026-07-06",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 112
     },
     {
       "title": "Sample Coordinator / 3 YOE",
@@ -4560,8 +4608,8 @@
       "band": "3-5k",
       "status": "Clean",
       "date": "2026-07-06",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2970
     },
     {
       "title": "Service Program Manager",
@@ -4575,8 +4623,8 @@
       "band": "8-12k",
       "status": "Clean",
       "date": "2026-07-06",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 66
     },
     {
       "title": "Public Service Tech 3 YOE",
@@ -4590,8 +4638,8 @@
       "band": "8-12k",
       "status": "Needs review",
       "date": "2026-07-06",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 112
     },
     {
       "title": "Supplier Account Manager / 10 YOE",
@@ -4605,8 +4653,8 @@
       "band": "12-20k",
       "status": "Clean",
       "date": "2026-07-06",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 3127
     },
     {
       "title": "Chief of Army",
@@ -4620,8 +4668,8 @@
       "band": "No image",
       "status": "No image",
       "date": "2026-07-06",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 1
     },
     {
       "title": "Tech sector",
@@ -4635,8 +4683,8 @@
       "band": "No image",
       "status": "No image",
       "date": "2026-07-06",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 164
     },
     {
       "title": "Which date do you get your salary?",
@@ -4650,8 +4698,8 @@
       "band": "N/A",
       "status": "N/A",
       "date": "2026-07-06",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 4803
     },
     {
       "title": "Side income as a student",
@@ -4665,8 +4713,8 @@
       "band": "No salary",
       "status": "No salary",
       "date": "2026-07-05",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2104
     },
     {
       "title": "Civil servant/SM, 6 YOE",
@@ -4680,8 +4728,8 @@
       "band": "5-8k",
       "status": "Clean",
       "date": "2026-07-05",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1291
     },
     {
       "title": "Semicon senior equipment engineer, 4YOE",
@@ -4695,8 +4743,8 @@
       "band": "5-8k",
       "status": "Clean",
       "date": "2026-07-05",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2213
     },
     {
       "title": "Private Home Tutor/ 12 YOE",
@@ -4710,8 +4758,8 @@
       "band": "No image",
       "status": "No image",
       "date": "2026-07-05",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1838
     },
     {
       "title": "Senior Software Developer, 8.5 YOE",
@@ -4725,8 +4773,8 @@
       "band": "5-8k",
       "status": "Clean",
       "date": "2026-07-05",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 3163
     },
     {
       "title": "Carousell 10YOE",
@@ -4740,8 +4788,8 @@
       "band": "N/A",
       "status": "N/A",
       "date": "2026-07-05",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "6-12mo",
+      "accountAgeDays": 228
     },
     {
       "title": "UIUX Designer / 7yoe",
@@ -4755,8 +4803,8 @@
       "band": "5-8k",
       "status": "Clean",
       "date": "2026-07-05",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1166
     },
     {
       "title": "Registered Nurse, almost 2 YOE",
@@ -4770,8 +4818,8 @@
       "band": "5-8k",
       "status": "Clean",
       "date": "2026-07-04",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-3y",
+      "accountAgeDays": 588
     },
     {
       "title": "Registered Nurse, almost 2 YOE (Gov hospital, degree holder)",
@@ -4800,8 +4848,8 @@
       "band": "3-5k",
       "status": "Clean",
       "date": "2026-07-04",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2055
     },
     {
       "title": "Civil & Structural Engineer/5 YOE",
@@ -4815,8 +4863,8 @@
       "band": "5-8k",
       "status": "Clean",
       "date": "2026-07-04",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2530
     },
     {
       "title": "Tech Sales (~5-6 YOE)",
@@ -4830,8 +4878,8 @@
       "band": "12-20k",
       "status": "Clean",
       "date": "2026-07-04",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "vet tech/~4-5 yoe",
@@ -4845,8 +4893,8 @@
       "band": "No image",
       "status": "No image",
       "date": "2026-07-04",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 56
     },
     {
       "title": "Financial Services Director (10 YOE) joined when I was 22",
@@ -4860,8 +4908,8 @@
       "band": "50k+",
       "status": "Needs review",
       "date": "2026-07-04",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 3213
     },
     {
       "title": "Indeed Reddit!",
@@ -4875,8 +4923,8 @@
       "band": "N/A",
       "status": "N/A",
       "date": "2026-07-04",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1361
     },
     {
       "title": "Ex-MOE teacher, more than 10yoe",
@@ -4890,8 +4938,8 @@
       "band": "5-8k",
       "status": "Clean",
       "date": "2026-07-03",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 1968
     },
     {
       "title": "Tech Sales (>15 YOE)",
@@ -4905,8 +4953,8 @@
       "band": "20-30k",
       "status": "Clean",
       "date": "2026-07-03",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "6-12mo",
+      "accountAgeDays": 218
     },
     {
       "title": "Software Engineer / 9 YoE",
@@ -4920,8 +4968,8 @@
       "band": "20-30k",
       "status": "Needs review",
       "date": "2026-07-02",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 3345
     },
     {
       "title": "Bank / 7YOE",
@@ -4935,8 +4983,8 @@
       "band": "20-30k",
       "status": "Clean",
       "date": "2026-07-02",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 146
     },
     {
       "title": "Tech Lead/ 10 YOE",
@@ -4950,8 +4998,8 @@
       "band": "No image",
       "status": "No image",
       "date": "2026-07-01",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "Financial Services Manager / YOE 5",
@@ -4965,8 +5013,8 @@
       "band": "12-20k",
       "status": "Clean",
       "date": "2026-07-01",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "YOE 9 IT Sector",
@@ -4980,8 +5028,8 @@
       "band": "30-50k",
       "status": "Clean",
       "date": "2026-06-29",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "Got this job as a fresh grad (with degree), was desperate lol",
@@ -4995,8 +5043,8 @@
       "band": "No image",
       "status": "No image",
       "date": "2026-06-26",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 153
     },
     {
       "title": "Typical",
@@ -5010,8 +5058,8 @@
       "band": "No salary",
       "status": "No salary",
       "date": "2026-06-25",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "3y+",
+      "accountAgeDays": 2948
     },
     {
       "title": "Kicking things off with mine..it's an Australian one still but soon gonna transition to a Singapore one when I'm back in October..",
@@ -5025,8 +5073,8 @@
       "band": "3-5k",
       "status": "Clean",
       "date": "2026-06-25",
-      "accountAge": "Unknown",
-      "accountAgeDays": null
+      "accountAge": "1-6mo",
+      "accountAgeDays": 74
     }
   ]
 }
