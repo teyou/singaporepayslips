@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-18T13:32:25+00:00",
-  "total_posts": 498,
+  "generated_at": "2026-08-19T13:32:43+00:00",
+  "total_posts": 501,
   "excluded_by_human": 57,
-  "in_dashboard": 441,
+  "in_dashboard": 444,
   "with_income": 353,
   "needs_review": 240,
   "human_reviewed": 94,
   "ocr_pending": 4,
-  "payslip_posts": 494,
+  "payslip_posts": 497,
   "clean_income": 77,
   "not_applicable": 29,
   "income_counts": {
@@ -20,7 +20,7 @@
     "8-12k": 78,
     "<3k": 14,
     "N/A": 29,
-    "No image": 48,
+    "No image": 51,
     "No salary": 6,
     "OCR pending": 58
   },
@@ -42,7 +42,7 @@
     "Life Sciences": 1,
     "Logistics / Trade": 5,
     "Operations": 4,
-    "Other": 128,
+    "Other": 131,
     "Retail / F&B / Gig": 9,
     "Self-Employed / Other": 10,
     "Social Services": 5,
@@ -138,7 +138,7 @@
     "O&G Process Technician": 1,
     "OnlyFans creator": 1,
     "Operations": 3,
-    "Other / Unspecified": 98,
+    "Other / Unspecified": 101,
     "PE": 1,
     "Pharmacist, Gov Hospital, 2 YOE": 1,
     "Pre-sales in Big Tech": 1,
@@ -221,8 +221,8 @@
   },
   "account_age_counts": {
     "1-3y": 72,
-    "1-6mo": 58,
-    "3y+": 245,
+    "1-6mo": 59,
+    "3y+": 247,
     "6-12mo": 26,
     "7-30d": 12,
     "<7d": 63,
@@ -233,12 +233,57 @@
     "11-15 yrs": 69,
     "16-20 yrs": 24,
     "21+ yrs": 10,
-    "3-5 yrs": 100,
+    "3-5 yrs": 101,
     "6-10 yrs": 140,
     "Fresh Grad": 10,
-    "Unknown": 104
+    "Unknown": 106
   },
   "posts": [
+    {
+      "title": "Airline Revenue Management",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1vsfucx/airline_revenue_management/",
+      "industry": "Other",
+      "occupation": "Other / Unspecified",
+      "sector": "Private",
+      "yoe": null,
+      "monthly": null,
+      "annual": null,
+      "band": "No image",
+      "status": "No image",
+      "date": "2026-08-19",
+      "accountAge": "1-6mo",
+      "accountAgeDays": 40
+    },
+    {
+      "title": "4yrs audit + 4years TS — where do I go from here?",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1vs85z5/4yrs_audit_4years_ts_where_do_i_go_from_here/",
+      "industry": "Other",
+      "occupation": "Other / Unspecified",
+      "sector": "Private",
+      "yoe": 4.0,
+      "monthly": null,
+      "annual": null,
+      "band": "No image",
+      "status": "No image",
+      "date": "2026-08-19",
+      "accountAge": "3y+",
+      "accountAgeDays": 2035
+    },
+    {
+      "title": "Interesting ways to lower your assessable income tax",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1vsb4th/interesting_ways_to_lower_your_assessable_income/",
+      "industry": "Other",
+      "occupation": "Other / Unspecified",
+      "sector": "Private",
+      "yoe": null,
+      "monthly": null,
+      "annual": null,
+      "band": "No image",
+      "status": "No image",
+      "date": "2026-08-19",
+      "accountAge": "3y+",
+      "accountAgeDays": 2158
+    },
     {
       "title": "Any mixue staff here?",
       "url": "https://old.reddit.com/r/singaporepayslips/comments/1vqytep/any_mixue_staff_here/",
@@ -1290,21 +1335,6 @@
       "accountAgeDays": 551
     },
     {
-      "title": "Charterer, 12 YOE",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1v6943e/charterer_12_yoe/",
-      "industry": "Discussion / Non-salary",
-      "occupation": "N/A",
-      "sector": "Private",
-      "yoe": 12.0,
-      "monthly": null,
-      "annual": null,
-      "band": "N/A",
-      "status": "N/A",
-      "date": "2026-07-25",
-      "accountAge": "3y+",
-      "accountAgeDays": 1141
-    },
-    {
       "title": "Financial Services Manager / 11YOE",
       "url": "https://old.reddit.com/r/singaporepayslips/comments/1v5ys2d/financial_services_manager_11yoe/",
       "industry": "Finance / Banking",
@@ -1318,6 +1348,21 @@
       "date": "2026-07-25",
       "accountAge": "1-3y",
       "accountAgeDays": 649
+    },
+    {
+      "title": "Charterer, 12 YOE",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1v6943e/charterer_12_yoe/",
+      "industry": "Discussion / Non-salary",
+      "occupation": "N/A",
+      "sector": "Private",
+      "yoe": 12.0,
+      "monthly": null,
+      "annual": null,
+      "band": "N/A",
+      "status": "N/A",
+      "date": "2026-07-25",
+      "accountAge": "3y+",
+      "accountAgeDays": 1141
     },
     {
       "title": "Agriculture/food related job pay( current)",
@@ -1680,21 +1725,6 @@
       "accountAgeDays": 0
     },
     {
-      "title": "Senior Motion Designer - 8 years of experience",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1v3l5eo/senior_motion_designer_8_years_of_experience/",
-      "industry": "Creative / Media",
-      "occupation": "Senior Motion Designer",
-      "sector": "Private",
-      "yoe": 8.0,
-      "monthly": 9188.75,
-      "annual": 110265.0,
-      "band": "8-12k",
-      "status": "Needs review",
-      "date": "2026-07-22",
-      "accountAge": "3y+",
-      "accountAgeDays": 5017
-    },
-    {
       "title": "Risk Manager - Bank / 6YOE",
       "url": "https://old.reddit.com/r/singaporepayslips/comments/1v3k49x/risk_manager_bank_6yoe/",
       "industry": "Finance / Banking",
@@ -1708,6 +1738,21 @@
       "date": "2026-07-22",
       "accountAge": "<7d",
       "accountAgeDays": 0
+    },
+    {
+      "title": "Senior Motion Designer - 8 years of experience",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1v3l5eo/senior_motion_designer_8_years_of_experience/",
+      "industry": "Creative / Media",
+      "occupation": "Senior Motion Designer",
+      "sector": "Private",
+      "yoe": 8.0,
+      "monthly": 9188.75,
+      "annual": 110265.0,
+      "band": "8-12k",
+      "status": "Needs review",
+      "date": "2026-07-22",
+      "accountAge": "3y+",
+      "accountAgeDays": 5017
     },
     {
       "title": "E3 Compensation in Micron Singapore?",
@@ -2010,21 +2055,6 @@
       "accountAgeDays": 881
     },
     {
-      "title": "Stat board 5YOE, 8 YOE total exp. Male 33",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1v1a93o/stat_board_5yoe_8_yoe_total_exp_male_33/",
-      "industry": "Government / Public Sector",
-      "occupation": "Civil Servant / Public Officer",
-      "sector": "Public",
-      "yoe": 5.0,
-      "monthly": 12828.0,
-      "annual": 153936.0,
-      "band": "12-20k",
-      "status": "ok",
-      "date": "2026-07-20",
-      "accountAge": "<7d",
-      "accountAgeDays": 0
-    },
-    {
       "title": "Affiliate Marketer, E-commerce, 2YOE",
       "url": "https://old.reddit.com/r/singaporepayslips/comments/1v18soa/affiliate_marketer_ecommerce_2yoe/",
       "industry": "Discussion / Non-salary",
@@ -2038,6 +2068,21 @@
       "date": "2026-07-20",
       "accountAge": "3y+",
       "accountAgeDays": 1778
+    },
+    {
+      "title": "Stat board 5YOE, 8 YOE total exp. Male 33",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1v1a93o/stat_board_5yoe_8_yoe_total_exp_male_33/",
+      "industry": "Government / Public Sector",
+      "occupation": "Civil Servant / Public Officer",
+      "sector": "Public",
+      "yoe": 5.0,
+      "monthly": 12828.0,
+      "annual": 153936.0,
+      "band": "12-20k",
+      "status": "ok",
+      "date": "2026-07-20",
+      "accountAge": "<7d",
+      "accountAgeDays": 0
     },
     {
       "title": "Insurance Agent (1 YOE)",
@@ -2190,21 +2235,6 @@
       "accountAgeDays": 2026
     },
     {
-      "title": "Assistant Engineer/10YOE",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1v0lg75/assistant_engineer10yoe/",
-      "industry": "Engineering",
-      "occupation": "Assistant Engineer",
-      "sector": "Private",
-      "yoe": 10.0,
-      "monthly": 5766.5,
-      "annual": 69198.0,
-      "band": "5-8k",
-      "status": "Needs review",
-      "date": "2026-07-19",
-      "accountAge": "3y+",
-      "accountAgeDays": 1711
-    },
-    {
       "title": "Senior Product Manager in SaaS, 7YOE",
       "url": "https://old.reddit.com/r/singaporepayslips/comments/1v0oich/senior_product_manager_in_saas_7yoe/",
       "industry": "Other",
@@ -2218,6 +2248,21 @@
       "date": "2026-07-19",
       "accountAge": "1-3y",
       "accountAgeDays": 501
+    },
+    {
+      "title": "Assistant Engineer/10YOE",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1v0lg75/assistant_engineer10yoe/",
+      "industry": "Engineering",
+      "occupation": "Assistant Engineer",
+      "sector": "Private",
+      "yoe": 10.0,
+      "monthly": 5766.5,
+      "annual": 69198.0,
+      "band": "5-8k",
+      "status": "Needs review",
+      "date": "2026-07-19",
+      "accountAge": "3y+",
+      "accountAgeDays": 1711
     },
     {
       "title": "O&G Process Technician 12YOE",
@@ -2325,21 +2370,6 @@
       "accountAgeDays": 2884
     },
     {
-      "title": "Financial Services Consultant (aka Insurance Agent). 7 YOE",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1v038wd/financial_services_consultant_aka_insurance_agent/",
-      "industry": "Finance / Banking",
-      "occupation": "Financial Services Consultant (Insurance Agent)",
-      "sector": "Private",
-      "yoe": 7.0,
-      "monthly": 17932.08333,
-      "annual": 215184.99996000002,
-      "band": "12-20k",
-      "status": "ok",
-      "date": "2026-07-18",
-      "accountAge": "3y+",
-      "accountAgeDays": 2944
-    },
-    {
       "title": "Senior Staff Nurse 2, 3.79 YOE, Bsc of Sci (Nursing) without honours (NUS), Novena Public Hospital",
       "url": "https://old.reddit.com/r/singaporepayslips/comments/1uzv2fl/senior_staff_nurse_2_379_yoe_bsc_of_sci_nursing/",
       "industry": "Healthcare",
@@ -2353,6 +2383,21 @@
       "date": "2026-07-18",
       "accountAge": "1-3y",
       "accountAgeDays": 534
+    },
+    {
+      "title": "Financial Services Consultant (aka Insurance Agent). 7 YOE",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1v038wd/financial_services_consultant_aka_insurance_agent/",
+      "industry": "Finance / Banking",
+      "occupation": "Financial Services Consultant (Insurance Agent)",
+      "sector": "Private",
+      "yoe": 7.0,
+      "monthly": 17932.08333,
+      "annual": 215184.99996000002,
+      "band": "12-20k",
+      "status": "ok",
+      "date": "2026-07-18",
+      "accountAge": "3y+",
+      "accountAgeDays": 2944
     },
     {
       "title": "Auxiliary Police Officer, 2 YOE",
@@ -2415,21 +2460,6 @@
       "accountAgeDays": 0
     },
     {
-      "title": "Health & Safety Officer, 5 YoE",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1v02fvg/health_safety_officer_5_yoe/",
-      "industry": "Other",
-      "occupation": "Health & Safety Officer",
-      "sector": "Private",
-      "yoe": 5.0,
-      "monthly": 6916.67,
-      "annual": 83000.04,
-      "band": "5-8k",
-      "status": "Needs review",
-      "date": "2026-07-18",
-      "accountAge": "6-12mo",
-      "accountAgeDays": 336
-    },
-    {
       "title": "4 YOE, Reinsurance finance",
       "url": "https://old.reddit.com/r/singaporepayslips/comments/1uzran5/4_yoe_reinsurance_finance/",
       "industry": "Finance / Banking",
@@ -2443,6 +2473,21 @@
       "date": "2026-07-18",
       "accountAge": "3y+",
       "accountAgeDays": 2116
+    },
+    {
+      "title": "Health & Safety Officer, 5 YoE",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1v02fvg/health_safety_officer_5_yoe/",
+      "industry": "Other",
+      "occupation": "Health & Safety Officer",
+      "sector": "Private",
+      "yoe": 5.0,
+      "monthly": 6916.67,
+      "annual": 83000.04,
+      "band": "5-8k",
+      "status": "Needs review",
+      "date": "2026-07-18",
+      "accountAge": "6-12mo",
+      "accountAgeDays": 336
     },
     {
       "title": "Data Analyst / 5 YOE",
@@ -2565,21 +2610,6 @@
       "accountAgeDays": 2064
     },
     {
-      "title": "Middle Office - Front Facing; Asset Management; 8 YOE;",
-      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uyn63m/middle_office_front_facing_asset_management_8_yoe/",
-      "industry": "Other",
-      "occupation": "Middle Office - Front Facing, Asset Management",
-      "sector": "Private",
-      "yoe": 8.0,
-      "monthly": 20242.83,
-      "annual": 242913.96,
-      "band": "20-30k",
-      "status": "Needs review",
-      "date": "2026-07-17",
-      "accountAge": "3y+",
-      "accountAgeDays": 3130
-    },
-    {
       "title": "Director of Presales, Tech, 10 YOE",
       "url": "https://old.reddit.com/r/singaporepayslips/comments/1uzfwzo/director_of_presales_tech_10_yoe/",
       "industry": "Other",
@@ -2593,6 +2623,21 @@
       "date": "2026-07-17",
       "accountAge": "1-3y",
       "accountAgeDays": 968
+    },
+    {
+      "title": "Middle Office - Front Facing; Asset Management; 8 YOE;",
+      "url": "https://old.reddit.com/r/singaporepayslips/comments/1uyn63m/middle_office_front_facing_asset_management_8_yoe/",
+      "industry": "Other",
+      "occupation": "Middle Office - Front Facing, Asset Management",
+      "sector": "Private",
+      "yoe": 8.0,
+      "monthly": 20242.83,
+      "annual": 242913.96,
+      "band": "20-30k",
+      "status": "Needs review",
+      "date": "2026-07-17",
+      "accountAge": "3y+",
+      "accountAgeDays": 3130
     },
     {
       "title": "30s / retail operations / 7 YOE",
