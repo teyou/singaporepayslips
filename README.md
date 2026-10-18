@@ -2,8 +2,14 @@
 
 An unofficial community dashboard for exploring public salary posts from r/singaporepayslips.
 
-Live dashboard: https://teyou.github.io/singaporepayslips/
-Public dataset: https://teyou.github.io/singaporepayslips/data.json
+Live dashboard: https://singaporepayslips.teyou.workers.dev/
+Public dataset: https://singaporepayslips.teyou.workers.dev/data.json
+
+The old address https://teyou.github.io/singaporepayslips/ forwards to the new one, and its `data.json` link keeps working.
+
+## Deploy
+
+Every push to `main` runs `.github/workflows/deploy.yml`: it publishes `index.html` and `data.json` to Cloudflare (Workers static assets, `wrangler.jsonc`) and replaces the GitHub Pages site with the forwarding page in `pages-redirect/` plus `data.json`. Secrets: `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID`.
 
 ## Why this exists
 

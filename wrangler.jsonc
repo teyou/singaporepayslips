@@ -1,0 +1,7 @@
+// Cloudflare Workers static assets: the dashboard at https://singaporepayslips.teyou.workers.dev.
+// No Worker code; the deploy workflow copies index.html and data.json into dist/ and runs `wrangler deploy`.
+{
+  "name": "singaporepayslips",
+  "compatibility_date": "2026-10-18",
+  "assets": { "directory": "./dist" }
+}
