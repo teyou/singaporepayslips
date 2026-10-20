@@ -1,7 +1,10 @@
-// Cloudflare Workers static assets: the dashboard at https://singaporepayslips.teyou.workers.dev.
+// Cloudflare Workers static assets: the dashboard at https://singaporepayslips.teyou.dev (custom domain, 20 Oct).
+// The old https://singaporepayslips.teyou.workers.dev address keeps serving it too.
 // No Worker code; the deploy workflow copies index.html and data.json into dist/ and runs `wrangler deploy`.
 {
   "name": "singaporepayslips",
   "compatibility_date": "2026-10-18",
-  "assets": { "directory": "./dist" }
+  "assets": { "directory": "./dist" },
+  "routes": [{ "pattern": "singaporepayslips.teyou.dev", "custom_domain": true }],
+  "workers_dev": true
 }
